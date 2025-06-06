@@ -1,6 +1,6 @@
 # Resumen
 
-Este trabajo forma parte del proyecto PAPIME titulado “Propuesta de mejora a la enseñanza del aprendizaje automático aplicado a la Ciencia de Datos a gran escala” con el número de proyecto PE106021. Se propone la elaboración de un manual de prácticas a nivel licenciatura para las asignaturas en el área de aprendizaje profundo o Deep Learning (DL) usando herramientas a gran escala (Big Data). Con el fin de ayudar a los estudiantes a entender el DL y sus herramientas, utilizando prácticas, que pueden desarrollarse a partir del sexto semestre de la LTICs y de otras licenciaturas afines, en la ENES Morelia que requieren los conocimientos del DL.
+Este trabajo forma parte del proyecto PAPIME titulado “Propuesta de mejora a la enseñanza del aprendizaje automático aplicado a la Ciencia de Datos a gran escala” con el número de proyecto PE103124. Se propone la elaboración de un manual de prácticas a nivel licenciatura para las asignaturas en el área de aprendizaje profundo o Deep Learning (DL) usando herramientas a gran escala (Big Data). Con el fin de ayudar a los estudiantes a entender el DL y sus herramientas, utilizando prácticas, que pueden desarrollarse a partir del sexto semestre de la LTICs y de otras licenciaturas afines, en la ENES Morelia que requieren los conocimientos del DL.
 
 La realización de este manual de prácticas, así como el contenido del mismo, fue determinado, modificado y adaptado mediante una encuesta aplicada a los alumnos pertenecientes a carreras relacionadas con el campo de estudio, este instrumento ayudó a determinar las áreas de interés con respecto al DL.
 	
@@ -12,7 +12,7 @@ El manual se conforma de seis prácticas base y cuatro complementarias que ayuda
 
 # Abstract
 
-This work is part of the PAPIME project titled “Proposal to improve the teaching of machine learning applied to large-scale Data Science” with project number PE106021. The development of a practice manual at the undergraduate level is proposed for subjects in the area of deep learning (DL) using large-scale tools (Big Data). In order to help students understand the DL and its tools, using practices that can be developed from the sixth semester of the LTICs and other related degrees, at ENES Morelia that require knowledge of the DL.
+This work is part of the PAPIME project titled “Proposal to improve the teaching of machine learning applied to large-scale Data Science” with project number PE103124. The development of a practice manual at the undergraduate level is proposed for subjects in the area of deep learning (DL) using large-scale tools (Big Data). In order to help students understand the DL and its tools, using practices that can be developed from the sixth semester of the LTICs and other related degrees, at ENES Morelia that require knowledge of the DL.
 
 The creation of this practice manual, as well as its content, was determined, modified and adapted through a survey applied to students belonging to careers related to the field of study. This instrument helped determine the areas of interest with respect to the DL.
 
