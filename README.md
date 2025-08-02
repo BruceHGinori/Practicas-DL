@@ -38,10 +38,15 @@ En la carpeta "Prácticas" se encuentran todas las prácticas desarrolladas en e
 - Prácticas de Laboratorio
 - Actividades Complementarias
 
-A su vez cada pŕactica se encuentra en una carpeta en la que se encuentra lo siguiente:
-- Jupyter notebook donde se desarrolla paso a paso la práctica.
-- Archivo **.pdf** en el cual se describe la metodología y el código usado en el Jupyter notebook. En el caso de la práctica 5, este archivo se ha omitido debido a que lo necesario está explicado en el Jupyter notebook.
+A su vez cada práctica se encuentra en una carpeta en la que se encuentra lo siguiente:
+- Jupyter notebook donde se desarrolla paso a paso la práctica. En el caso de la práctica 5, este archivo es remplazado por un arcivho .py donde viene un ejemplo para trabajar de manera distribuida en el servidor.
+- Archivo **.pdf** en el cual se describe la metodología y el código usado en el Jupyter notebook.  En el caso de la práctica 5, se omiten partes de la estructura de las prácticas definidas posteriormente.
 - Archivo **.md** donde se describe cómo descargar los datos utilizados en la práctica.
+
+Cada actividades se encuentra en una carpeta en la que se encuentra lo siguiente:
+- Archivo **.pdf** en el cual se plantea el problema de la actividad y se brinda un ejemplo del formato de los arcchivos de actividades
+- Archivo **.md** donde se describe cómo descargar los datos utilizados en la actividad.
+
 
 # Estructura de las prácticas
 Cada una de las prácticas presentadas en el anexo contienen las siguientes fases,
